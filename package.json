@@ -11,7 +11,7 @@
     "flat": "^4.1.0",
     "js-yaml": "^3.13.1",
     "lodash.debounce": "^4.0.8",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "node-zookeeper-client": "^1.1.0"
   },
   "devDependencies": {},
